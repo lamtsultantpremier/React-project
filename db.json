@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postProfile":"Java Developer",
+      "postDesc":"should be good",
+      "reqExperience":5,
+      "postTechStack":[
+        "Java",
+        "spring MVC",
+        "spring WEB"
+      ]
+    },
+    {
+      "id": 2,
+      "postProfile":"Ts Developer",
+      "postDesc":"should be good",
+      "reqExperience":5,
+      "postTechStack":[
+        "Javascrit",
+        "Js",
+        "Ts"
+      ]
+    },
+    {
+      "id": 3,
+      "postProfile":"Python devoloper",
+      "postDesc":"should be good",
+      "reqExperience":5,
+      "postTechStack":[
+        "Python",
+        "Django",
+        "Data Science"
+      ]
+    },   {
+      "id": 4,
+      "postProfile":"C++ Developper",
+      "postDesc":"should be good",
+      "reqExperience":5,
+      "postTechStack":[
+        "From the scrach",
+        "",
+        ""
+      ]
+    }
+  ]
+
+
+}
